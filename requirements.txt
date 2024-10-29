@@ -11,6 +11,7 @@ langchain-groq==0.1.9
 unstructured==0.15.0
 unstructured[pdf]==0.15.0
 fitz
+PyMuPDF
 frontend
 transformers==4.43.3
 sentence-transformers==3.0.1
