@@ -1,6 +1,6 @@
 python-dotenv==1.0.1
 streamlit==1.37.0
-transformer
+transformers
 spacy==3.5.3  # Pinning to a known working version
 thinc==8.1.0  # Pinning thinc version compatible with spaCy
 spacy-streamlit==1.1.1
