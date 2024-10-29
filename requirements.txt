@@ -3,7 +3,7 @@ python-dotenv==1.0.1
 transformers
 spacy  # Pinning to a known working version
 thinc  # Pinning thinc version compatible with spaCy
-spacy-streamlit==1.1.1
+spacy-streamlit
 torch==2.0.1 
 langchain-community==0.2.10
 langchain-text-splitters==0.2.2
