@@ -5,6 +5,7 @@ spacy  # Pinning to a known working version
 thinc  # Pinning thinc version compatible with spaCy
 spacy-streamlit
 torch 
+faiss-cpu==1.7.4
 langchain-community==0.2.10
 langchain-text-splitters==0.2.2
 langchain-groq==0.1.9
