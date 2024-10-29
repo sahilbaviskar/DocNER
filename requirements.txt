@@ -18,3 +18,4 @@ transformers==4.43.3
 sentence-transformers==3.0.1
 nltk==3.8.1
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.0/en_core_web_sm-3.7.0-py3-none-any.whl
+--find-links https://dl.fbaipublicfiles.com/faiss/wheel/faiss_cpu-1.7.4-cp311-cp311-linux_x86_64.whl
