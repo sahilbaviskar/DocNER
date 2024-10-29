@@ -1,5 +1,5 @@
 import streamlit as st
-from transformers import AutoTokenizer, AutoModelForTokenClassification, pipeline
+# from transformers import AutoTokenizer, AutoModelForTokenClassification, pipeline
 import spacy
 import spacy_streamlit as spt
 from spacy import displacy
