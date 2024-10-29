@@ -4,7 +4,7 @@ transformers
 spacy  # Pinning to a known working version
 thinc  # Pinning thinc version compatible with spaCy
 spacy-streamlit
-torch==2.0.1 
+torch 
 langchain-community==0.2.10
 langchain-text-splitters==0.2.2
 langchain-groq==0.1.9
