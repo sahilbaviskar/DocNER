@@ -3,7 +3,7 @@ from transformers import AutoTokenizer, AutoModelForTokenClassification, pipelin
 import spacy
 import spacy_streamlit as spt
 from spacy import displacy
-import fitz  # PyMuPDF for handling PDFs
+import fitz  
 import os
 from dotenv import load_dotenv
 from langchain_community.document_loaders import PyPDFLoader
